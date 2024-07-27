@@ -1,0 +1,23 @@
+Short Description:
+Robust LLM content moderation guardrail based on G-Eval method. Flexible, criteria-based scoring for various domains.
+
+Full project description:
+LLM Moderation Guardrail: AI Content Safety for Voiceflow
+Enhance your Voiceflow AI conversations with the advanced LLM Moderation Guardrail. This function leverages a G-Eval variant to ensure content safety and compliance across diverse domains. Go beyond basic content filtering – create safer, more trustworthy AI conversations.
+
+Key Features:
+Flexible Content Moderation: Adaptable to various industries and user bases
+Customizable Criteria: Define specific moderation rules for your unique needs
+Quantifiable Scoring: Easy-to-interpret 1-5 scale for nuanced decision-making
+Step-by-Step LLM Guidance: Thorough content assessment process
+
+Perfect for:
+Developers building AI chatbots
+Content managers in sensitive industries
+Businesses prioritizing brand safety in AI interactions
+
+Benefits:
+Tailored moderation for customer service, education, and entertainment
+Enhanced user trust and brand protection
+Responsible AI interactions
+
